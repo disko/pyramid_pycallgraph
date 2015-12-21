@@ -18,7 +18,7 @@ requires = [
 
 setup(
     name='pyramid_pycallgraph',
-    version='0.0.0-alpha',
+    version='0.1.0',
     description='Pyramid tween to generate a callgraph image for every request',
     long_description=README + '\n\n' + CHANGES,
     classifiers=[
